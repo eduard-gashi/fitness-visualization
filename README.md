@@ -1,1 +1,1 @@
-# fitness-visualization
+# fitness-exercises-visualization
